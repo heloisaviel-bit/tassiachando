@@ -1,5 +1,5 @@
 body {
-    background-color: #35000D;
+    background: linear-gradient(135deg, #35000D, #5A1020);
 }
 
 h1 {
@@ -7,7 +7,7 @@ h1 {
     font-size: 75px;
     text-align: center;
     font-family: Georgia, serif;
-    text-shadow: 2px 2px 6px #E8CFA8;
+    text-shadow: 3px 3px 10px #E8CFA8;
 }
 
 h2 {
@@ -17,12 +17,21 @@ h2 {
     font-family: Georgia, serif;
     margin-top: 50px;
     margin-bottom: 25px;
+    border-bottom: 2px solid #E8CFA8;
+    padding-bottom: 10px;
+}
+
+.playlist {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 iframe {
     width: 30%;
     height: 220px;
-    margin: 10px;
-    border-radius: 15px;
+    margin: 15px;
+    border-radius: 25px;
     border: 3px solid #E8CFA8;
+    box-shadow: 0 5px 15px #000000;
 }
