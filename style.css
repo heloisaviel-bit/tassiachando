@@ -3,13 +3,13 @@ body {
 }
 
 h1 {
-    color: #F8C8DC;
+    color: #FFD6E7;
     font-size: 75px;
     text-align: center;
     font-family: Georgia, serif;
-    text-shadow: 2px 2px 5px #FFD700;
+    text-shadow: 2px 2px 6px #E8CFA8;
 }
 
 h2 {
-    color: #FFD700;
+    color: #E8CFA8;
 }
