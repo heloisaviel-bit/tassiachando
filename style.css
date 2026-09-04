@@ -1,8 +1,15 @@
 body {
-    background-color: rgb(204, 232, 245);
+    background-color: #35000D;
 }
 
 h1 {
-    color: black;
+    color: #F8C8DC;
     font-size: 75px;
+    text-align: center;
+    font-family: Georgia, serif;
+    text-shadow: 2px 2px 5px #FFD700;
+}
+
+h2 {
+    color: #FFD700;
 }
